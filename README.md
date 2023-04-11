@@ -13,6 +13,9 @@ I am a third year PhD student in Mechanical Engineering at Polytechnique Montré
 
 
 - 🔭 I’m currently working on developing new structural optimization solutions based on reinforcement learning.
+- 🌱 I’m currently learning how to train transformers, Chinese & Danish
+- ⚡ **Hobbies:** Books, Chess, Running
+
 <!--
 **ThomasRochefortB/ThomasRochefortB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
