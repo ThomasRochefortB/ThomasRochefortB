@@ -13,7 +13,7 @@ I am a third year PhD student in Mechanical Engineering at Polytechnique Montré
 
 
 - 🔭 I’m currently working on developing new structural optimization solutions based on reinforcement learning.
-- 🌱 I’m currently learning how to train transformers, Chinese & Danish
+- 🌱 I’m currently learning how to train transformers, how to speak Chinese, and how to repair espresso machines.
 - ⚡ **Hobbies:** Books, Chess, Running
 - :speech_balloon: I am fluent in: English and French
 
