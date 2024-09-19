@@ -1,3 +1,4 @@
+
 ### Hi there 👋, I'm Thomas!
 
 <p align="left">
@@ -7,13 +8,12 @@
    <a href="mailto:thomas.rochefort.beaudoin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-thomas.rochefort.beaudoin@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.rochefort.beaudoin@gmail.com"></a>
    <a href="https://medium.com/@thomas.rochefort.beaudoin"><img alt="Gmail" src="https://img.shields.io/badge/-@thomas.rochefort.beaudoin-51a652?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@thomas.rochefort.beaudoin"></a>
 </p>
-I am a third year PhD student in Mechanical Engineering at Polytechnique Montréal working on applied reinforcement learning for structural design.
+I am in my final year as a PhD student in Mechanical Engineering at Polytechnique Montréal working on applied reinforcement learning for structural design.
 
 ---
 
 
-- 🔭 I’m currently working on developing new structural optimization solutions based on reinforcement learning.
-- 🌱 I’m currently learning how to train transformers, how to speak Chinese, and how to repair espresso machines.
+- 🔭 I’m currently working at [Valence Labs](https://www.valencelabs.com/), helping to build SOTA AI infrastructure for industrializing scientific discovery!.
 - ⚡ **Hobbies:** Books, Chess, Running
 - :speech_balloon: I am fluent in: English and French
 
