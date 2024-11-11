@@ -8,7 +8,7 @@
    <a href="mailto:thomas.rochefort.beaudoin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-thomas.rochefort.beaudoin@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.rochefort.beaudoin@gmail.com"></a>
    <a href="https://medium.com/@thomas.rochefort.beaudoin"><img alt="Gmail" src="https://img.shields.io/badge/-@thomas.rochefort.beaudoin-51a652?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@thomas.rochefort.beaudoin"></a>
 </p>
-- 🔭 I’m currently working at [Valence Labs](https://www.valencelabs.com/), helping to build SOTA AI infrastructure for the agentic systems team.
+🔭 I’m currently working at [Valence Labs](https://www.valencelabs.com), helping to build SOTA AI infrastructure for the agentic systems team.
 ---
 
 
